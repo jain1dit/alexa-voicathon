@@ -1,0 +1,7 @@
+welcome: Welcome to Krish on Alexa. Do you want to open the UTS ticket?
+
+ac_name: For which account and application you want to open the ticket?
+
+success: The ticket will open in few minutes, Thank You for using Krish on Alexa.
+
+failure: The ticket is failed to create due to some error.
